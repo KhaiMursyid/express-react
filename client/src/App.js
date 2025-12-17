@@ -22,7 +22,7 @@ function App() {
           {backendData.users.length
             ? backendData.users.join(", ")
             : "Loading..."}
-          TEST
+          TEST 2
         </a>
       </header>
     </div>
